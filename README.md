@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shashwat-2424">
+                    <img src="https://avatars.githubusercontent.com/u/97022107?v=4" width="100px;" alt="Shashwat"/>
+                    <br />
+                    <sub><b>Shashwat</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
